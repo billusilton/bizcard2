@@ -1,0 +1,38 @@
+body {
+  background-color : aliceblue
+}
+/* Text align property for use in page */
+.text-center {
+  text-align: center;
+}
+/* Set fonts & colors for headers, text */
+h3 {
+  font-family : 'Courier New', Courier, monospace;
+  font-size : 24px;
+  color : darkkhaki;
+}
+
+h1 {
+  font-family : Arial, Helvetica, sans-serif;
+  font-size : 56px;
+  color : black;
+}
+
+h2 {
+  font-family : Arial, Helvetica, sans-serif;
+  font-size : 32px;
+  color : darkgray;
+}
+
+p, li {
+  font-family : Arial, Helvetica, sans-serif;
+  font-size : 12px;
+  color : rebeccapurple
+}
+/* Center image in header */
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
