@@ -1,5 +1,5 @@
 body {
-  background-color : aliceblue
+  background-color : mediumspringgreen
 }
 /* Text align property for use in page */
 .text-center {
@@ -35,4 +35,8 @@ p, li {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+}
+/* Links that have been visited */
+a:visited {
+  color: green;
 }
