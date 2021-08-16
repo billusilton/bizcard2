@@ -1,3 +1,6 @@
+{
+  box-sizing : border-box
+}
 body {
   background-color : mediumspringgreen
 }
@@ -39,4 +42,9 @@ p, li {
 /* Links that have been visited */
 a:visited {
   color: green;
+}
+article p{
+  width: 500px;
+  font-family : Arial, Helvetica, sans-serif;
+  font-size : 18px;
 }
